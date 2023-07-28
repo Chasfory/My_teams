@@ -1,4 +1,13 @@
-# B-NWP-400-PAR-4-1-myteams-alberick.mahoussi
+# My_teams
+The goal of this project was to create a CLI server and client.  
+- creation of our own protocol (RFC style documentation)  
+- creation of our own data model in accordance with the technical properties of the given library.  
+- implementation of the list commands following this Readme.  
+- use of data server and client libraries to print all events and data.  
+
+Network communication was achieved through the use of TCP sockets.  
+**Realize in c**    
+
  Communication Protocol
     1- Implemented commands
         LOGIN (/login)
